@@ -21,7 +21,11 @@ h1 {
     background-color: #a09988;
   }
   
-  
+  .intro{
+    background-color: #837c6d;
+    color: aliceblue;
+    border: 10px solid #716b5f;
+  }
  
   .mario {
     width: 10%;
@@ -34,21 +38,26 @@ h1 {
   body{
     background-image: url(22.jpg);
     
-    
-    
-   
   }
+
   ol{
-    font-size: larger;font-family: Arial, Helvetica, sans-serif;color: greenyellow;
+    font-size: larger;font-family: Arial, Helvetica, sans-serif;
+    color: greenyellow;
+    background-color:#837c6d;
   }
+
   ul{
-    font-size: larger;font-family:Arial, Helvetica, sans-serif; color: greenyellow;
+    font-size: larger;font-family:Arial, Helvetica, sans-serif; 
+    color: greenyellow;
   }
+
   p{font-size: x-large;
   color: greenyellow;}
+  
   li{
     font-size: x-large;color: greenyellow ;
   }
+
   section {
     border: 10px solid rgb(229, 255, 0);
     width: 20%;
@@ -57,6 +66,7 @@ h1 {
     position: absolute;
     background-color: rgb(7, 76, 136);
   }
+
   article {
     border: medium solid rgb(212, 209, 16);
     padding: 2rem;
